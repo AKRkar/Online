@@ -8,6 +8,8 @@ img{
     border-style: solid;
     border-width: 3px;
     border-color: yellow;
+    width: 300px;
+    highte: 200px;
 }
 
 hr{
